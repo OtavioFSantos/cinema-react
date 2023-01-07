@@ -2,7 +2,8 @@
   --font: "Montserrat", sans-serif;
   --white: #fff;
   --black: #000;
-  --gray-100: #e2e2e2;
+  --gray: #e2e2e2;
+  --red: #db0606;
 }
 
 body {
