@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "titulo": "Interstellar",
-    "capa": "https://i.postimg.cc/gJ9gqmbL/interstellar-poster.png",
+    "title": "Interstellar",
+    "image": "https://i.postimg.cc/gJ9gqmbL/interstellar-poster.png",
     "link": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
   },
   {
     "id": 2,
-    "titulo": "The Batman",
-    "capa": "https://i.postimg.cc/mr0TYzr3/FD1yq6-PWUAYe-JUv.jpg",
+    "title": "The Batman",
+    "image": "https://i.postimg.cc/mr0TYzr3/FD1yq6-PWUAYe-JUv.jpg",
     "link": "https://www.youtube.com/watch?v=-FZ-pPFAjYY"
   },
   {
     "id": 3,
-    "titulo": "Top Gun Maverick",
-    "capa": "https://i.postimg.cc/cLn9KrVG/Top-Gun-Maverick.png",
+    "title": "Top Gun Maverick",
+    "image": "https://i.postimg.cc/cLn9KrVG/Top-Gun-Maverick.png",
     "link": "https://www.youtube.com/watch?v=qSqVVswa420"
   },
   {
     "id": 4,
-    "titulo": "Inception",
-    "capa": "https://i.postimg.cc/1zzKGXdz/31b86065f13d157c76572e46c977a568.jpg",
+    "title": "Inception",
+    "image": "https://i.postimg.cc/1zzKGXdz/31b86065f13d157c76572e46c977a568.jpg",
     "link": "https://www.youtube.com/watch?v=8hP9D6kZseM"
   }
 ]
