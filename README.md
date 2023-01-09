@@ -1,5 +1,13 @@
-## Available Scripts
+## Screenshots
 
+![Screenshot of the home page](https://i.postimg.cc/yxdgzcL5/Captura-de-Tela-21.png "Screenshot 1")
+
+![Screenshot of the home page](https://i.postimg.cc/CKszBmtX/Captura-de-Tela-22.png "Screenshot 2")
+
+![Screenshot of the player page](https://i.postimg.cc/vTgYzzqQ/Captura-de-Tela-24.png "Screenshot 3")
+
+
+## Available Scripts
 
 ### `npm start`
 
