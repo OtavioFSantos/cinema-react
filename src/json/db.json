@@ -1,28 +1,26 @@
-{
-  "movies": [
-    {
-      "id": 1,
-      "title": "Interstellar",
-      "image": "https://i.postimg.cc/gJ9gqmbL/interstellar-poster.png",
-      "link": "https://www.youtube.com/embed/zSWdZVtXT7E"
-    },
-    {
-      "id": 2,
-      "title": "The Batman",
-      "image": "https://i.postimg.cc/mr0TYzr3/FD1yq6-PWUAYe-JUv.jpg",
-      "link": "https://www.youtube.com/embed/-FZ-pPFAjYY"
-    },
-    {
-      "id": 3,
-      "title": "Top Gun Maverick",
-      "image": "https://i.postimg.cc/cLn9KrVG/Top-Gun-Maverick.png",
-      "link": "https://www.youtube.com/embed/qSqVVswa420"
-    },
-    {
-      "id": 4,
-      "title": "Inception",
-      "image": "https://i.postimg.cc/1zzKGXdz/31b86065f13d157c76572e46c977a568.jpg",
-      "link": "https://www.youtube.com/embed/8hP9D6kZseM"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Interstellar",
+    "image": "https://i.postimg.cc/gJ9gqmbL/interstellar-poster.png",
+    "link": "https://www.youtube.com/embed/zSWdZVtXT7E"
+  },
+  {
+    "id": 2,
+    "title": "The Batman",
+    "image": "https://i.postimg.cc/mr0TYzr3/FD1yq6-PWUAYe-JUv.jpg",
+    "link": "https://www.youtube.com/embed/-FZ-pPFAjYY"
+  },
+  {
+    "id": 3,
+    "title": "Top Gun Maverick",
+    "image": "https://i.postimg.cc/cLn9KrVG/Top-Gun-Maverick.png",
+    "link": "https://www.youtube.com/embed/qSqVVswa420"
+  },
+  {
+    "id": 4,
+    "title": "Inception",
+    "image": "https://i.postimg.cc/1zzKGXdz/31b86065f13d157c76572e46c977a568.jpg",
+    "link": "https://www.youtube.com/embed/8hP9D6kZseM"
+  }
+]
