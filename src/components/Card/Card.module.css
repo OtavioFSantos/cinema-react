@@ -30,3 +30,8 @@
 .container h2 {
   font-size: 16px;
 }
+
+.link {
+  text-decoration: none;
+  color: var(--black);
+}
